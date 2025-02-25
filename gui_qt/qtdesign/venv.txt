@@ -1,0 +1,15 @@
+#터미널
+python -m venv myvenv # 현재 폴더에 가상환경 만듬
+
+menv\Scripts\activate # 가상환경 시작
+
+#그리고 패키지 설치
+
+ctrl+shift+p
+python select interpreter
+venv 폴더 선택
+
+
+
+#deactivate 가상환경 종료
+#rmdir myenv 폴더 까지 삭제

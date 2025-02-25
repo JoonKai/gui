@@ -13,3 +13,6 @@ venv 폴더 선택
 
 #deactivate 가상환경 종료
 #rmdir myenv 폴더 까지 삭제
+
+
+python -m venv myenv --system--site--package # 공용 공간 사용
